@@ -26,7 +26,7 @@
     "test": "grunt"
   },
   "dependencies": {
-    "mimelib": "https://github.com/whiteout-io/mimelib/tarball/v0.3.0"
+    "mimelib": "git+https://github.com/nifgraup/mimelib#1078dae4a01eb2918f37ff67bb2f64c13b8ae485"
   },
   "devDependencies": {
     "chai": "~1.8.1",
